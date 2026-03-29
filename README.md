@@ -7,9 +7,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=nafisashaikh&show_icons=true&theme=dark&hide_border=true" height="150"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafisashaikh&layout=compact&theme=dark&hide_border=true" height="150"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Hi+I'm+Nafis+Shaikh;Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Tableau;Welcome+to+my+GitHub" />
 
 <img src="https://streak-stats.demolab.com/?user=nafisashaikh&theme=tokyonight" />
 
