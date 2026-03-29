@@ -17,6 +17,11 @@
 📍 Maharashtra, India  
 
 ## 🔧 Skills
+
+## 🛠 Skills
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,python,git,github,vscode" />
+</p>
 - SQL (Joins, Group By, Window Functions)
 - Python (Pandas, Matplotlib, Data Analysis)
 - MySQL
