@@ -1,4 +1,5 @@
 # Hi, I'm Nafis Shaikh 👋
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nafisashaikh&layout=compact&theme=tokyonight)
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-yellow)
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
