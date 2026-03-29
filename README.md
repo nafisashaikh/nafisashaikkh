@@ -7,9 +7,9 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=nafisashaikh&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=nafisashaikh&show_icons=true&theme=dark&hide_border=true" height="150"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafisashaikh&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafisashaikh&layout=compact&theme=dark&hide_border=true" height="150"/>
 
 <img src="https://streak-stats.demolab.com/?user=nafisashaikh&theme=tokyonight" />
 
