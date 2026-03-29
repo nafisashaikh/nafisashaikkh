@@ -1,9 +1,14 @@
 # Hi, I'm Nafis Shaikh 👋
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nafisashaikh&layout=compact&theme=tokyonight)
+
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-yellow)
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
 ![GitHub](https://img.shields.io/badge/GitHub-Projects-black)
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nafisashaikh&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nafisashaikh&layout=compact&theme=tokyonight)
 
 🎓 Computer Engineering Student  
 📊 Aspiring Data Analyst  
@@ -30,4 +35,4 @@
 - Email: (Add your email)
 
 ⭐ Always learning Data Analytics and SQL
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nafisashaikh&show_icons=true&theme=tokyonight)
+
