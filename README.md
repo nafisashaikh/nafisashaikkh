@@ -5,9 +5,13 @@
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
 ![GitHub](https://img.shields.io/badge/GitHub-Projects-black)
 
-![GitHub Stats](https://stats.vercel.app/api?username=nafisashaikh&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Languages](https://stats.vercel.app/api/top-langs/?username=nafisashaikh&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=nafisashaikh&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafisashaikh&layout=compact&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com/?user=nafisashaikh&theme=tokyonight" />
 
 🎓 Computer Engineering Student  
 📊 Aspiring Data Analyst  
