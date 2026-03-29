@@ -1,4 +1,8 @@
 # Hi, I'm Nafis Shaikh 👋
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-yellow)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
+![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-green)
 
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-yellow)
