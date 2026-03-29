@@ -1,48 +1,42 @@
+<!-- Wavy Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:9333ea&height=160&section=header&text=Nafis%20Shaikh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&center=true&vCenter=true&width=700&height=60&lines=Hi+I'm+Nafis+Shaikh;Data+Analyst;Python+Developer;SQL+Enthusiast;AI+Learner">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=700&height=60&lines=Data+Analyst;Python+Developer;SQL+Enthusiast;AI+Learner;Machine+Learning+Explorer">
 </p>
 
 <!-- Banner -->
 <p align="center">
-  <img src="banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/nafisashaikh/nafisashaikh/main/banner.png" width="100%" />
 </p>
 
 <!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Analyst-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Python-Expert-yellow?style=for-the-badge">
-  <img src="https://img.shields.io/badge/SQL-Developer-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Open%20Source-Learner-orange?style=for-the-badge">
-</p>
-
-<h1 align="center">Hi 👋, I'm Nafis Shaikh</h1>
-<h3 align="center">Data Analyst | Python | SQL | Tableau | AI Developer</h3>
-
-<!-- Profile Views + Followers -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nafisashaikh&label=Profile%20views&color=blue&style=flat" />
-  <img src="https://img.shields.io/github/followers/nafisashaikh?label=Followers" />
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SQL-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tableau-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Machine%20Learning-red?style=for-the-badge">
 </p>
 
 ---
 
-<!-- Coding GIF -->
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 # 🚀 About Me
 - 🎓 Computer Engineering Student
 - 📊 Aspiring Data Analyst
-- 🐍 Python | SQL | Tableau
-- 🤖 AI & Data Science Projects
+- 🐍 Python | SQL | Tableau | Excel
+- 🤖 AI & Machine Learning Projects
 - 💼 Looking for Internship Opportunities
-- 🌱 Currently learning Machine Learning
+- 🌱 Currently learning Machine Learning & Data Science
 
 <br>
 
 <!-- Developer GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="450">
 </p>
 
 ---
@@ -54,9 +48,15 @@
 
 ---
 
-# 🔥 GitHub Streak
+# 📊 GitHub Summary
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nafisashaikh&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafisashaikh&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nafisashaikh&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nafisashaikh&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nafisashaikh&theme=tokyonight" />
 </p>
 
 ---
@@ -78,6 +78,15 @@
 
 ---
 
+# 🧠 Skill Progress
+Python      █████████░░ 85%  
+SQL         ████████░░░ 75%  
+Tableau     ███████░░░░ 70%  
+Excel       ███████░░░░ 70%  
+Machine Lrn █████░░░░░ 50%  
+
+---
+
 # 🌐 Connect With Me
 <p align="center">
 <a href="https://linkedin.com/in/nafisshaikh">
@@ -94,3 +103,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+---
+
+<!-- Wavy Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,100:0ea5e9&height=120&section=footer"/>
