@@ -29,3 +29,4 @@
 - Email: (Add your email)
 
 ⭐ Always learning Data Analytics and SQL
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nafisashaikh&show_icons=true&theme=tokyonight)
