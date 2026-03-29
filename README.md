@@ -1,49 +1,53 @@
+<!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&center=true&vCenter=true&width=600&height=60&lines=Hi+I'm+Nafis+Shaikh;Data+Analyst;Python+Developer;SQL+Enthusiast;AI+Learner">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&center=true&vCenter=true&width=700&height=60&lines=Hi+I'm+Nafis+Shaikh;Data+Analyst;Python+Developer;SQL+Enthusiast;AI+Learner">
 </p>
 
+<!-- Banner -->
 <p align="center">
-  <img src="banner.png" />
+  <img src="https://raw.githubusercontent.com/nafisashaikh/nafisashaikh/main/banner.png" width="100%" />
 </p>
+
+<!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Analyst-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Python-Expert-yellow?style=for-the-badge">
   <img src="https://img.shields.io/badge/SQL-Developer-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/Open%20Source-Learner-orange?style=for-the-badge">
 </p>
+
 <h1 align="center">Hi 👋, I'm Nafis Shaikh</h1>
 <h3 align="center">Data Analyst | Python | SQL | Tableau | AI Developer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Python+Developer;SQL+Expert;AI+Builder;Open+Source+Learner&center=true&width=500&height=45">
-</p>
-
+<!-- Profile Views + Followers -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nafisashaikh&label=Profile%20views&color=blue&style=flat" />
   <img src="https://img.shields.io/github/followers/nafisashaikh?label=Followers" />
-  <img src="https://img.shields.io/github/stars/nafisashaikh?label=Stars" />
 </p>
 
 ---
+
+<!-- Coding GIF -->
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nafisashaikh&label=Profile%20views&color=blue&style=flat" />
-</p>
 
 # 🚀 About Me
 - 🎓 Computer Engineering Student
 - 📊 Aspiring Data Analyst
 - 🐍 Python | SQL | Tableau
 - 🤖 AI & Data Science Projects
-- 💼 Looking for Internships
+- 💼 Looking for Internship Opportunities
 - 🌱 Currently learning Machine Learning
 
+<br>
+
+<!-- Developer GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
+
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,git,github,vscode,html,css,js" />
 </p>
@@ -76,12 +80,17 @@
 
 # 🌐 Connect With Me
 <p align="center">
-<a href="https://linkedin.com/in/nafisshaikh"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:nafisabidshaikh12@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://linkedin.com/in/nafisshaikh">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+<a href="mailto:nafisabidshaikh12@gmail.com">
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+</a>
 </p>
 
 ---
-## 🐍 Contribution Snake
+
+# 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
