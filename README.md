@@ -47,12 +47,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,git,github,vscode,html,css,js" />
 </p>
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nafisashaikh&theme=tokyonight&row=1&column=6" />
-</p>
 
 ---
 
