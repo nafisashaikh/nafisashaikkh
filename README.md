@@ -1,4 +1,8 @@
 # Hi, I'm Nafis Shaikh 👋
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-yellow)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Projects-black)
 
 🎓 Computer Engineering Student  
 📊 Aspiring Data Analyst  
