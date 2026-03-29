@@ -5,7 +5,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nafisashaikh/nafisashaikh/main/banner.png" width="100%" />
+  <img src="https://nafisashaikh/nafisashaikh/main/banner.png" width="100%" />
 </p>
 
 <!-- Badges -->
