@@ -4,11 +4,10 @@
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-yellow)
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
 ![GitHub](https://img.shields.io/badge/GitHub-Projects-black)
-## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nafisashaikh&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nafisashaikh&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nafisashaikh&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nafisashaikh&layout=compact)
 
 🎓 Computer Engineering Student  
 📊 Aspiring Data Analyst  
