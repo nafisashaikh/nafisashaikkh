@@ -31,14 +31,6 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,git,github,vscode,html,css" />
 </p>
-
----
-
-# 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nafisashaikh&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafisashaikh&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
 ---
 
 # 🔥 GitHub Streak
