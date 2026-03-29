@@ -1,5 +1,5 @@
 <!-- Wavy Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:9333ea&height=160&section=header&text=Nafis%20Shaikh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:9333ea&height=160&section=header&text=Nafis%20Shaikh&fontSize=40&fontColor=ffffff&animation=fadeIn"  width="100%" />
 
 <!-- Animated Typing Header -->
 <p align="center">
@@ -107,4 +107,4 @@ Machine Lrn █████░░░░░ 50%
 ---
 
 <!-- Wavy Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,100:0ea5e9&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,100:0ea5e9&height=120&section=footer"  width="100%" />
